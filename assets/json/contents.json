@@ -1,13 +1,13 @@
 {
-  "labName": "Lab Name ",
-  "labTitle": "Lab Title",
-  "domainName": "Branch Or Domain Name ",
-  "introduction": ["Introduction for the lab goes here"],
+  "labName": "Geotechnical Engineering Lab",
+  "labTitle": "Geotechnical Engineering Lab",
+  "domainName": "Civil Engineering",
+  "introduction": [" A Geotechnical Engineering virtual lab is a digital platform that allows students to conduct experiments related to Geotechnical Engineering concepts in a visual and comprehensive manner. It is a self-paced learning tool that helps students to understand fundamental concepts and prepare for physical experiments in a safe and controlled environment."],
 
-  "objective": ["Objective of the lab goes here"],
+  "objective": ["The Geotechnical Engineering virtual lab aims to provide students with a comprehensive and visual platform to conduct experiments and gain a better understanding of fundamental concepts. It is not intended to replace physical lab experiments but to supplement them. The virtual lab offers a controlled environment that minimizes risks and optimizes resources. Overall, it is an effective pedagogical tool that equips students with the necessary skills to conduct physical experiments confidently and proficiently."],
 
   "experimentList": {
-    "experimentName 1": "experimentName link 1",
+    "Vane shear test": "https://vlabdevnitk.github.io/exp-geotechnical-vane-shear-test-nitk/",
     "experimentName 2": "experimentName link 2",
     "experimentName 3": "experimentName link 3",
     "experimentName 4": "experimentName link 4",
@@ -21,23 +21,24 @@
 
   "targetAudience": {
     "UG": [
-      "BE / B. Tech in Domain Name / Branch Name 1",
-      "BE / B. Tech in Domain Name / Branch Name 2",
-      "BE / B. Tech in Domain Name / Branch Name 3"
+      "BE / B. Tech in Civil Engineering / Geological Engineering "
     ],
     "PG": [
-      "Mtech / MS in Domain Name / Branch Name 1",
-      "Mtech / MS in Domain Name / Branch Name 2"
+      "Mtech / MS in Geotechnical engineering or Foundation engineering or Soil Mechanics"
     ]
   },
 
   "coarseAlignment": [
-    "Course Name - University name",
-    "Course Name - University name",
-    "Course Name - University name",
-    "Course Name - University name",
-    "Course Name - University name",
-    "Course Name - University name",
-    "Course Name - University name"
+    "Applied soil Engineering - National Institute of Technology Karnataka, Surathka",
+    "Basic Geotechnical Engineering - Visvesvaraya Technological University",
+    "Geotechnical Engineering Laboratory - Visvesvaraya Technological University",
+    "Foundation Engineering - Anna University",
+    "Soil Mechanics Laboratory - Anna University",
+    "Geotechnical Engineering - I - Goa University",
+    "Geotechnical Engineering - II - Goa University",
+    "Soil Mechanics and Foundation Engineering - Vellore Institute of Technology",
+    "Advanced Soil Mechanics - Vellore Institute of Technology",
+    "Soil Mechanics and Engineering Geology - IIT Roorkee",
+    "Foundation Engineering  - IIT Roorkee"
   ]
 }
